@@ -6,4 +6,4 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 
 Analyze the data and generate insights that could help Netflix ijn deciding which type of shows/movies to produce and how they can grow the business in different countries.
 
-Dataset_link
+Dataset_link(https://github.com/lordchan/Netflix-Data-Analysis/blob/main/Netflix%20-%20Python.csv)
