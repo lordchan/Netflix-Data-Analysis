@@ -11,7 +11,9 @@ Dataset_link (https://github.com/lordchan/Netflix-Data-Analysis/blob/main/Netfli
 The dataset provided consists of a list of all the TV shows/movies available on Netflix:
 
 Show_id: Unique ID for every Movie / Tv Show
+
 Type: Identifier - A Movie or TV Show
+
 Title: Title of the Movie / Tv Show
 Director: Director of the Movie
 Cast: Actors involved in the movie/show
