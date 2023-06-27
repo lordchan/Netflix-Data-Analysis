@@ -57,4 +57,7 @@ Description: The summary description
 8. In countries like Japan and South Korea, Netflix should recommend more TV shows rather than wasting resources on Movies.
 9. Should put more content on the platform overall: Because after 2019, the no. of movies/shows added have decreased. People expect latest content.
 10 Rating: If Netflix does produce its original content it should prefer TV-Y, TV-G rating category. Since they are more popular recently.
-## The final report is here - Netflix - Jupyter Notebook.pdf
+## The final report is here - Netflix - [Netflix - Jupyter Notebook.pdf](https://github.com/lordchan/Netflix-Data-Analysis/blob/main/Netflix%20-%20Jupyter%20Notebook.pdf)
+
+## Along with the jupyter notebook code - [Netflix (1).ipynb](https://github.com/lordchan/Netflix-Data-Analysis/blob/bd4890bfd08646dd95d18a4d75a2ce5dd7dc657d/Netflix%20(1).ipynb)
+
